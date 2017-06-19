@@ -1,0 +1,46 @@
+body {
+  background-color: #ffba0c;
+}
+
+h1 {
+  text-align: center;
+}
+
+.player {
+  margin: 10;
+}
+.music-player {
+  border-color: red;
+  border-style: ridge;
+  background-color: white;
+  padding: 5;
+  width: 70vh;
+  margin: auto;
+
+}
+.search {
+
+  background-color: white;
+  border-style: outset;
+  padding: 10;
+  margin: 15;
+  margin-top: 35;
+  border-color: red;
+
+}
+.results  {
+  display: flex;
+  background-color: white;
+  border-style: ridge;
+  border-color: red;
+  padding: 210;
+  margin: 10;
+  border-radius:
+}
+
+.fill {
+  border-style: dashed;
+  border-color: red;
+  padding: 25;
+  margin: 35;
+}
